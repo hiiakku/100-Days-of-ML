@@ -26,5 +26,5 @@
 
 ## Day 5 : Sept 27 , 2018
 
-**Today's Progress** : Implemented K-means algorithm from scrath and read about Expectation Maximization(EM) Algorithm
+**Today's Progress** : Implemented K-means algorithm from scratch and read about Expectation Maximization(EM) Algorithm.
 **Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/Day5.ipynb)
