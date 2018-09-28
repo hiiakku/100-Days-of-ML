@@ -27,4 +27,11 @@
 ## Day 5 : Sept 27 , 2018
 
 **Today's Progress** : Implemented K-means algorithm from scratch and read about Expectation Maximization(EM) Algorithm.
+
 **Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/Day5.ipynb)
+
+## Day 6 : Sept 28 , 2018
+
+**Today's Progress** : Did practical implementation of Hierarchical Clustering using scikit-learn.
+
+**Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/Day6.ipynb)
