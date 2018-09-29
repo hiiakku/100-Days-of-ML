@@ -35,3 +35,9 @@
 **Today's Progress** : Did practical implementation of Hierarchical Clustering using scikit-learn.
 
 **Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/Day6.ipynb)
+
+## Day 7 : Sept 29 , 2018
+
+**Today's Progress** : Studied Linear and Logistic Regression algorithms, implemented Logistic Regression algorithm on *Social Network Ads* dataset.
+
+**Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/Day7.ipynb)
