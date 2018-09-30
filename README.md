@@ -41,3 +41,17 @@
 **Today's Progress** : Studied Linear and Logistic Regression algorithms, implemented Logistic Regression algorithm on *Social Network Ads* dataset.
 
 **Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/Day7.ipynb)
+
+## Day 8 : Sept 30 , 2018
+
+**Today's Progress** : Started Lecture 1 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. It contained the outline of the course and different components of the learning problem :
+                      * Unknown target function
+                      * Training Examples
+                      * Learning Algorithm
+                      * Hypothesis set H = {h} , g E H
+                      * Final Hypothesis g
+ He also explained the Perceptron Learning Model (H + PLA).
+ 
+ **Noteworthy Question** : What is/are the esssence of ML ?
+ 
+**Link of Video:**   [The Learning Problem](https://www.youtube.com/watch?v=mbyG85GZ0PI&hd=1)
