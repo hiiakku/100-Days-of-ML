@@ -50,6 +50,7 @@
                       * Learning Algorithm
                       * Hypothesis set H = {h} , g E H
                       * Final Hypothesis g
+                      
  He also explained the Perceptron Learning Model (H + PLA).
  
  **Noteworthy Question** : What is/are the esssence of ML ?
