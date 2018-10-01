@@ -56,3 +56,9 @@
  **Noteworthy Question** : What is/are the esssence of ML ?
  
 **Link of Video:**   [The Learning Problem](https://www.youtube.com/watch?v=mbyG85GZ0PI&hd=1)
+
+## Day 9 : Oct 1 , 2018
+
+**Today's Progress** : Proceeded with Lecture 2 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. Learnt about bin analogy in learning process. Also started Move 37 course and covered some of the Week 1 topics -> Intro , Bellman Equation and Markov decision processes(MDP).
+  
+**Link of Video:**   [Is Learning Feasible?](https://www.youtube.com/watch?v=MEG35RDD7RA)
