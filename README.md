@@ -62,3 +62,9 @@
 **Today's Progress** : Proceeded with Lecture 2 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. Learnt about bin analogy in learning process. Also started Move 37 course and covered some of the Week 1 topics -> Intro , Bellman Equation and Markov decision processes(MDP).
   
 **Link of Video:**   [Is Learning Feasible?](https://www.youtube.com/watch?v=MEG35RDD7RA)
+
+## Day 10 : Oct 2 , 2018
+
+**Today's Progress** : Completed Week 1 of Move 37 course. Watched Google Dopamine Live Stream by Siraj Rawal and completed OpenAI Gym Installation process.
+  
+**Link of Video:**   [Google Dopamine (LIVE)](https://www.youtube.com/watch?time_continue=0&v=FWFoyFjeAaM)
