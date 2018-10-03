@@ -68,3 +68,9 @@
 **Today's Progress** : Completed Week 1 of Move 37 course. Watched Google Dopamine Live Stream by Siraj Rawal and completed OpenAI Gym Installation process.
   
 **Link of Video:**   [Google Dopamine (LIVE)](https://www.youtube.com/watch?time_continue=0&v=FWFoyFjeAaM)
+
+## Day 11 : Oct 3 , 2018
+
+**Today's Progress** : Started with OpenAI Gym Installation. Read some articles about reinforcement learning. Applied for PyTorch Scholarship Challenge from Facebook .
+  
+**Link of Challenge:**   [PyTorch Scholarship Challenge](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)
