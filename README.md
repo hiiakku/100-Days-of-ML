@@ -74,3 +74,9 @@
 **Today's Progress** : Started with OpenAI Gym Installation. Read some articles about reinforcement learning. Applied for PyTorch Scholarship Challenge from Facebook .
   
 **Link of Challenge:**   [PyTorch Scholarship Challenge](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)
+
+## Day 12 : Oct 4 , 2018
+
+**Today's Progress** : Started Chapter 4 - *Naive Bayes and Sentiment Classification* of the book *Speech and Language Processing by Daniel Jurafsky*. Read about the basics of Naive Bayes Classifiers.
+
+**Link of Book:**   [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
