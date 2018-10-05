@@ -80,3 +80,9 @@
 **Today's Progress** : Started Chapter 4 - *Naive Bayes and Sentiment Classification* of the book *Speech and Language Processing by Daniel Jurafsky*. Read about the basics of Naive Bayes Classifiers.
 
 **Link of Book:**   [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+
+## Day 13 : Oct 5 , 2018
+
+**Today's Progress** :  Continued *Naive Bayes and Sentiment Classification* chapter. Read about the optimization process of naive bayes classifier for *Sentiment Analysis* and how to use naive bayes as a Language Model. 
+
+**Link of Book:**   [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
