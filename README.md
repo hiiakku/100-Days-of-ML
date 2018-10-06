@@ -86,3 +86,10 @@
 **Today's Progress** :  Continued *Naive Bayes and Sentiment Classification* chapter. Learnt about the optimization process of naive bayes classifier for *Sentiment Analysis* and how to use naive bayes as a Language Model. Read an article about data cleaning phase which involves convertion of abbreviations into actual Phrases.
 
 **Link of Article:**   [Slangs correction](https://medium.com/nerd-stuff/python-script-to-turn-text-message-abbreviations-into-actual-phrases-d5db6f489222)
+
+## Day 14 : Oct 6 , 2018
+
+**Today's Progress** :  Completed *Naive Bayes and Sentiment Classification* chapter. Learnt about Evaluation measures: Precision, Recall and F-measure, cotengency tables and cross-validation. Did the workout examples and exercise questions.
+
+**Link of Book:**   [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+
