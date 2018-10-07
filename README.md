@@ -93,3 +93,9 @@
 
 **Link of Book:**   [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
 
+## Day 15 : Oct 7 , 2018
+
+**Today's Progress** :  Implemented Multinomial Naive Bayes Classifier for Sentiment Classification on twitter dataset.
+
+**Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/Day15.ipynb)
+
