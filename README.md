@@ -99,3 +99,9 @@
 
 **Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/Day15.ipynb)
 
+## Day 16: Oct 8 , 2018
+
+**Today's Progress** :  Started Lecture 3 - *The Linear Model I* of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. Learnt about bin analogy in learning process.
+
+**Link of Video:**   [The Linear Model I](https://www.youtube.com/watch?v=FIbVs5GbBlQ)
+
