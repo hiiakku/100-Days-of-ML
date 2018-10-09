@@ -105,3 +105,10 @@
 
 **Link of Video:**   [The Linear Model I](https://www.youtube.com/watch?v=FIbVs5GbBlQ)
 
+## Day 17: Oct 9 , 2018
+
+**Today's Progress** :  Read about Part-of-speech tagging concepts. Learnt about the Penn Treebank Part-of-Speech Tagset and HMM Part-of-Speech Tagging method. 
+
+**Link of Resource:**   [Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
+
