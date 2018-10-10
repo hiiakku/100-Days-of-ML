@@ -111,4 +111,8 @@
 
 **Link of Resource:**   [Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
+## Day 18: Oct 10 , 2018
 
+**Today's Progress** :  Completed Lecture 3 - *The Linear Model I* of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa and started reading about *Logistic Regression* from the book *Speech and Language Processing by Daniel Jurafsky*.
+
+**Link of Resource:**   [Logistic Regression](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
