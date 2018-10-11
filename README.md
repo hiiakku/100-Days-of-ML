@@ -116,3 +116,11 @@
 **Today's Progress** :  Completed Lecture 3 - *The Linear Model I* of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa and started reading about *Logistic Regression* from the book *Speech and Language Processing by Daniel Jurafsky*.
 
 **Link of Resource:**   [Logistic Regression](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+
+## Day 19: Oct 11 , 2018
+
+**Today's Progress** :  Watched Lecture 4 - *Error and Noise* of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa.
+
+**Link of Video:**   [Error and Noise](https://www.youtube.com/watch?v=L_0efNkdGMc&hd=1)
+
+
