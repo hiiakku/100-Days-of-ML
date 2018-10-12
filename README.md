@@ -123,4 +123,9 @@
 
 **Link of Video:**   [Error and Noise](https://www.youtube.com/watch?v=L_0efNkdGMc&hd=1)
 
+## Day 20: Oct 12 , 2018
+
+**Today's Progress** :  Completed *Part-of-speech tagging* chapter from the book *Speech and Language Processing by Daniel Jurafsky*. 
+
+**Link of Resource:**   [Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
