@@ -125,7 +125,14 @@
 
 ## Day 20: Oct 12 , 2018
 
+**Today's Progress** :  Comntinued *Part-of-speech tagging* chapter from the book *Speech and Language Processing by Daniel Jurafsky*. 
+
+**Link of Resource:**   [Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
+## Day 21: Oct 13 , 2018
+
 **Today's Progress** :  Completed *Part-of-speech tagging* chapter from the book *Speech and Language Processing by Daniel Jurafsky*. 
 
 **Link of Resource:**   [Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
 
