@@ -135,4 +135,8 @@
 
 **Link of Resource:**   [Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
+## Day 22: Oct 14 , 2018
 
+**Today's Progress** :  Completed Chapter 5 - *Logistic Regression* from the book *Speech and Language Processing by Daniel Jurafsky*.
+
+**Link of Resource:**   [Logistic Regression](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
