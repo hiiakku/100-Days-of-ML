@@ -140,3 +140,9 @@
 **Today's Progress** :  Completed Chapter 5 - *Logistic Regression* from the book *Speech and Language Processing by Daniel Jurafsky*.
 
 **Link of Resource:**   [Logistic Regression](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+
+## Day 23: Oct 15 , 2018
+
+**Today's Progress** :  Decided to start a project to identify the level of " Fakeness " on different platforms. In context to that topic, I read a research paper based on *Review's fakeness detection*. My further aim is to identify the account fakeness of a user on social media.
+
+**Link of Research Paper:**   [Study on detecting fake reviews](https://ieeexplore.ieee.org/document/8102442)
