@@ -146,3 +146,9 @@
 **Today's Progress** :  Decided to start a project to identify the level of " Fakeness " on different platforms. In context to that topic, I read a research paper based on *Review's fakeness detection*. My further aim is to identify the account fakeness of a user on social media.
 
 **Link of Research Paper:**   [Study on detecting fake reviews](https://ieeexplore.ieee.org/document/8102442)
+
+## Day 24: Oct 16 , 2018
+
+**Today's Progress** :  Today, I read a research paper titled as *Don't follow me: Spam detection in Twitter*. which deals with spam detection using Machine learning in tweets. I implemented the first two features proposed in the paper on crawled twitter dataset.
+
+**Link of Research Paper:**   [Don't follow me: Spam detection in Twitter](https://ieeexplore.ieee.org/document/5741690/)
