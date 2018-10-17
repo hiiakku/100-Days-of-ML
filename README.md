@@ -149,6 +149,12 @@
 
 ## Day 24: Oct 16 , 2018
 
-**Today's Progress** :  Today, I read a research paper titled as *Don't follow me: Spam detection in Twitter*. which deals with spam detection using Machine learning in tweets. I implemented the first two features proposed in the paper on crawled twitter dataset.
+**Today's Progress** :  Today, I read a research paper titled as *Don't follow me: Spam detection in Twitter*, which deals with spam detection using Machine learning in tweets. I implemented the first two features proposed in the paper on crawled twitter dataset.
+
+**Link of Research Paper:**   [Don't follow me: Spam detection in Twitter](https://ieeexplore.ieee.org/document/5741690/)
+
+## Day 25: Oct 17 , 2018
+
+**Today's Progress** :  I continued the implementation of the research paper titled as *Don't follow me: Spam detection in Twitter*. Today I worked on calculating the content based features for the dataset for the classification purpose.
 
 **Link of Research Paper:**   [Don't follow me: Spam detection in Twitter](https://ieeexplore.ieee.org/document/5741690/)
