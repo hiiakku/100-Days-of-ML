@@ -158,3 +158,11 @@
 **Today's Progress** :  I continued the implementation of the research paper titled as *Don't follow me: Spam detection in Twitter*. Today I worked on calculating the content based features for the dataset for the classification purpose.
 
 **Link of Research Paper:**   [Don't follow me: Spam detection in Twitter](https://ieeexplore.ieee.org/document/5741690/)
+
+## Day 26: Oct 18 , 2018
+
+**Today's Progress** :  Today I integrated the Graph-based feature and content-based features and tested the dataset using support vector machine. So, finally completed the implementation of the research paper titled as *Don't follow me: Spam detection in Twitter*.
+
+**Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/final_code.ipynb)
+
+
