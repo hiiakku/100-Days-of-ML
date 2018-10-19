@@ -165,4 +165,10 @@
 
 **Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/final_code.ipynb)
 
+## Day 27: Oct 19 , 2018
+
+**Today's Progress** :  Did data visualization of the Graph-based feature and content-based features of the different users. Made pie charts and bar graphs on the data.
+
+**Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/twt_user_visual.ipynb)
+
 
