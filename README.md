@@ -171,4 +171,8 @@
 
 **Link of Work:**   [Commit](https://github.com/hiiakku/100-Days-of-ML/blob/master/twt_user_visual.ipynb)
 
+## Day 28: Oct 20 , 2018
 
+**Today's Progress** : Started Chapter 7 - *Neural Networks and Neural Language Models* of the book *Speech and Language Processing by Daniel Jurafsky*. Read about the Feed-Forward Neural Networks and basics of Training Neural Nets.
+
+**Link of Resource:**   [Neural Networks and Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
