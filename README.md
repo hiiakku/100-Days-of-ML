@@ -176,3 +176,10 @@
 **Today's Progress** : Started Chapter 7 - *Neural Networks and Neural Language Models* of the book *Speech and Language Processing by Daniel Jurafsky*. Read about the Feed-Forward Neural Networks and basics of Training Neural Nets.
 
 **Link of Resource:**   [Neural Networks and Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
+
+## Day 29: Oct 21 , 2018
+
+**Today's Progress** : Wanted to explore Recurrent Neural Networks so started reading Ch. 9 - *Sequence Processing with
+Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafsky*. 
+
+**Link of Resource:**   [Sequence Processing with Recurrent Networks](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
