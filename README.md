@@ -183,3 +183,9 @@
 Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafsky*. 
 
 **Link of Resource:**   [Sequence Processing with Recurrent Networks](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+
+## Day 30: Oct 22 , 2018
+
+**Today's Progress** : Read two articles today, written by Jason Brownlee --> *How To Investigate Machine Learning Algorithm Behavior* and *How to Implement a Machine Learning Algorithm*.
+
+**Link of Articles:**   [Article 1](https://machinelearningmastery.com/how-to-investigate-machine-learning-algorithm-behavior/) [Article 2](https://machinelearningmastery.com/how-to-implement-a-machine-learning-algorithm/)
