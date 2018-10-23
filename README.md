@@ -189,3 +189,7 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Read two articles today, written by Jason Brownlee --> *How To Investigate Machine Learning Algorithm Behavior* and *How to Implement a Machine Learning Algorithm*.
 
 **Link of Articles:**   [Article 1](https://machinelearningmastery.com/how-to-investigate-machine-learning-algorithm-behavior/) [Article 2](https://machinelearningmastery.com/how-to-implement-a-machine-learning-algorithm/)
+
+## Day 31: Oct 23 , 2018
+
+**Today's Progress** : Explored and read about Maximum Likelihood Estimation and Expectation Maximization problems today.
