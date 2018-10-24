@@ -193,3 +193,9 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 31: Oct 23 , 2018
 
 **Today's Progress** : Explored and read about Maximum Likelihood Estimation and Expectation Maximization problems today.
+
+## Day 32: Oct 24 , 2018
+
+**Today's Progress** : Studied the topic *Support Vector Machines*, studied the kernel trick and exlored the maths involved while calculating the hyperplane .
+
+
