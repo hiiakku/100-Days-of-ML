@@ -198,4 +198,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 
 **Today's Progress** : Studied the topic *Support Vector Machines*, studied the kernel trick and exlored the maths involved while calculating the hyperplane .
 
+## Day 33: Oct 25 , 2018
 
+**Today's Progress** : Started reading about time series forecasting problems and read article about "How to develop baseline forecast for air pollution".
+
+**Link of Article:**   [Article](https://machinelearningmastery.com/how-to-develop-baseline-forecasts-for-multi-site-multivariate-air-pollution-time-series-forecasting/)
