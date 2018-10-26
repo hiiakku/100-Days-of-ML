@@ -203,3 +203,9 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Started reading about time series forecasting problems and read article about "How to develop baseline forecast for air pollution".
 
 **Link of Article:**   [Article](https://machinelearningmastery.com/how-to-develop-baseline-forecasts-for-multi-site-multivariate-air-pollution-time-series-forecasting/)
+
+## Day 34: Oct 26 , 2018
+
+**Today's Progress** : Learnt about Standard Multivariate, Multi-Step, and Multi-Site Time Series Forecasting Problems and started reading article about "How to Develop Autoregressive Forecasting Models for Multi-Step Air Pollution Time Series Forecasting".
+
+**Link of Article:**   [Article](https://machinelearningmastery.com/how-to-develop-autoregressive-forecasting-models-for-multi-step-air-pollution-time-series-forecasting/)
