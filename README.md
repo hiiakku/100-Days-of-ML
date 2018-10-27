@@ -209,3 +209,9 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Learnt about Standard Multivariate, Multi-Step, and Multi-Site Time Series Forecasting Problems and started reading article about "How to Develop Autoregressive Forecasting Models for Multi-Step Air Pollution Time Series Forecasting".
 
 **Link of Article:**   [Article](https://machinelearningmastery.com/how-to-develop-autoregressive-forecasting-models-for-multi-step-air-pollution-time-series-forecasting/)
+
+## Day 35: Oct 27 , 2018
+
+**Today's Progress** : Watched a video on *dynamic programming's usecase in reinforcement learning* and learnt about Value Iteration - A type of dynamic programming algorithm .
+
+**Link of Video:**   [Sports Betting with Reinforcement Learning](https://www.youtube.com/watch?v=mEIePvxdbkQ/)
