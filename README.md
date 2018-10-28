@@ -215,3 +215,9 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Watched a video on *dynamic programming's usecase in reinforcement learning* and learnt about Value Iteration - A type of dynamic programming algorithm .
 
 **Link of Video:**   [Sports Betting with Reinforcement Learning](https://www.youtube.com/watch?v=mEIePvxdbkQ/)
+
+## Day 36: Oct 28 , 2018
+
+**Today's Progress** : Watched two videos, one *Bellman Advanced* and second *Tutorial for DP* and did implementation of Value Iteration Algorithm.
+
+**Link of Videos:**   [Bellman Advanced](https://www.youtube.com/watch?v=FsOmL4sQJxo/) [Dynamic Programming Tutorial for Reinforcement Learning](https://www.youtube.com/watch?v=aAkFtRxeP7c/)
