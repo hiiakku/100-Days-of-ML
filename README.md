@@ -221,3 +221,7 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Watched two videos, one *Bellman Advanced* and second *Tutorial for DP* and did implementation of Value Iteration Algorithm.
 
 **Link of Videos:**   [Bellman Advanced](https://www.youtube.com/watch?v=FsOmL4sQJxo/) [Dynamic Programming Tutorial for Reinforcement Learning](https://www.youtube.com/watch?v=aAkFtRxeP7c/)
+
+## Day 37: Oct 29 , 2018
+
+**Today's Progress** : Continued Week 2 - *Dynamic Programming* of Move 37 course. Completed lectures 2.3 and 2.4.
