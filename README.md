@@ -225,3 +225,9 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 37: Oct 29 , 2018
 
 **Today's Progress** : Continued Week 2 - *Dynamic Programming* of Move 37 course. Completed lectures 2.3 and 2.4.
+
+## Day 38: Oct 30 , 2018
+
+**Today's Progress** : Read about policy and value iteration and explored the question *"what-is-the-difference-between-value-iteration-and-policy-iteration"*.
+
+**Link of Resource:**   [Policy_and_value_iteration](https://www.theschool.ai/wp-content/uploads/2018/09/policy_and_value_iteration.pdf/)
