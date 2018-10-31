@@ -231,3 +231,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Read about policy and value iteration and explored the question *"what-is-the-difference-between-value-iteration-and-policy-iteration"*.
 
 **Link of Resource:**   [Policy_and_value_iteration](https://www.theschool.ai/wp-content/uploads/2018/09/policy_and_value_iteration.pdf/)
+
+## Day 39: Oct 31 , 2018
+
+**Today's Progress** : Implemented the code for policy and value iteration.
+
