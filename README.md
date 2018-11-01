@@ -236,3 +236,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 
 **Today's Progress** : Implemented the code for policy and value iteration.
 
+## Day 40: Nov 1 , 2018
+
+**Today's Progress** : Started Lecture 05 - *Training Versus Testing* of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. 
+
+**Link of Videos:**   [Training Versus Testing](https://www.youtube.com/watch?v=SEYAnnLazMU&hd=1)
