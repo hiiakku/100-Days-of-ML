@@ -240,4 +240,10 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 
 **Today's Progress** : Started Lecture 05 - *Training Versus Testing* of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. 
 
-**Link of Videos:**   [Training Versus Testing](https://www.youtube.com/watch?v=SEYAnnLazMU&hd=1)
+**Link of Video:**   [Training Versus Testing](https://www.youtube.com/watch?v=SEYAnnLazMU&hd=1)
+
+## Day 41: Nov 2 , 2018
+
+**Today's Progress** : Studied about data imputation. Read various articles and methods on the topic - *"Handling missing values"*.
+
+**Link of Resource:**   [Imputation](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
