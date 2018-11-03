@@ -250,6 +250,6 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 
 ## Day 42: Nov 3 , 2018
 
-**Today's Progress** :Read and explored how ensemble learning helps improve machine learning results by combining several models. Found that this approach allows the production of better predictive performance compared to a single model.
+**Today's Progress** : Read how ensemble learning helps improve machine learning results by combining several models. Explored how this approach allows the production of better predictive performance compared to a single model.
 
 **Link of Resource:**   [Ensemble learning](https://blog.statsbot.co/ensemble-learning-d1dcd548e936)
