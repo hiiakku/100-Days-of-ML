@@ -247,3 +247,9 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Studied about data imputation. Read various articles and methods on the topic - *"Handling missing values"*.
 
 **Link of Resource:**   [Imputation](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+
+## Day 42: Nov 3 , 2018
+
+**Today's Progress** :Read and explored how ensemble learning helps improve machine learning results by combining several models. Found that this approach allows the production of better predictive performance compared to a single model.
+
+**Link of Resource:**   [Ensemble learning](https://blog.statsbot.co/ensemble-learning-d1dcd548e936)
