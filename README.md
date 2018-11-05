@@ -257,3 +257,7 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 43: Nov 4 , 2018
 
 **Today's Progress** : Started Udemy - Deep Learning A-Z™ Hands-On Artificial Neural Networks course and completed first part - *ANN Intuition*.
+
+## Day 44: Nov 5 , 2018
+
+**Today's Progress** : Continued Deep Learning A-Z™ Hands-On Artificial Neural Networks course and completed second part - *CNN Intuition*
