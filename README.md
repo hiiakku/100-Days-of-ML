@@ -275,3 +275,7 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 47: Nov 8 , 2018
 
 **Today's Progress** : Continued Deep Learning A-Z™ Hands-On Artificial Neural Networks course and continued with its third part - *RNN Intuition*
+
+## Day 48: Nov 9 , 2018
+
+**Today's Progress** : Started the *PyTorch Scholarship Challenge Nanodegree Program*
