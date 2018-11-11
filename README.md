@@ -283,3 +283,9 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 49: Nov 10 , 2018
 
 **Today's Progress** : Completed lecture 2 of the *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
+
+**Half way done**
+
+## Day 50: Nov 11 , 2018
+
+**Today's Progress** : Watched lecture 3 of *PyTorch Scholarship Challenge Nanodegree Program* on udacity, and completed *RNN Intuition* part of the Deep Learning A-Z™ Hands-On Artificial Neural Networks course.
