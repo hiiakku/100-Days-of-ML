@@ -289,3 +289,9 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 50: Nov 11 , 2018
 
 **Today's Progress** : Watched lecture 3 of *PyTorch Scholarship Challenge Nanodegree Program* on udacity, and completed *RNN Intuition* part of the Deep Learning A-Z™ Hands-On Artificial Neural Networks course.
+
+## Day 51: Nov 12 , 2018
+
+**Today's Progress** : Today I read a paper titled - *A Beginner's Guide to the Mathematics of Neural Networks*.
+
+**Link of Resource:**   [Paper](https://github.com/hiiakku/100_Days_of_ML_Code/blob/master/Mathematics%20of%20Neural%20Networks.pdf)
