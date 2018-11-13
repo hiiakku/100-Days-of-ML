@@ -282,7 +282,7 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 
 ## Day 49: Nov 10 , 2018
 
-**Today's Progress** : Completed lecture 2 of the *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
+**Today's Progress** : Started lecture 2 of the *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
 
 **Half way done**
 
@@ -295,3 +295,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Today I read a paper titled - *A Beginner's Guide to the Mathematics of Neural Networks*.
 
 **Link of Resource:**   [Paper](https://github.com/hiiakku/100_Days_of_ML_Code/blob/master/Mathematics%20of%20Neural%20Networks.pdf)
+
+## Day 52: Nov 13 , 2018
+
+**Today's Progress** : Finally completed lecture 2 of the *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
+
