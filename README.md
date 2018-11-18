@@ -316,5 +316,9 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 
 **Today's Progress** : Worked on lecture 4 - *Introduction to pytorch* of the *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
 
+## Day 57: Nov 18 , 2018
+
+**Today's Progress** : Stared lecture 5 - *Convolutional Neural Network* of the *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
+
 
 
