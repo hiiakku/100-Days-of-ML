@@ -336,3 +336,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 
 **Today's Progress** : Continued with *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
 
+## Day 62: Nov 23 , 2018
+
+**Today's Progress** : Watched some videos of Google Machine Learning Crash Course.
+
+**Link of Resource:**   [Machine-learning crash-course](https://developers.google.com/machine-learning/crash-course/ml-intro)
