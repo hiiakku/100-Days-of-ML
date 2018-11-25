@@ -345,3 +345,9 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 63: Nov 24 , 2018
 
 **Today's Progress** : Continued with *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
+
+## Day 63: Nov 24 , 2018
+
+**Today's Progress** : Attended a google hangout meeting of the Pytorch Scholars and landed upon a great set of lectures by Stanford University CS231n. 
+
+**Link of Resource:**   [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
