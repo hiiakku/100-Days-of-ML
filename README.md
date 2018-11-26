@@ -351,3 +351,7 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Attended a google hangout meeting of the Pytorch Scholars and landed upon a great set of lectures by Stanford University CS231n. 
 
 **Link of Resource:**   [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+
+## Day 65: Nov 26 , 2018
+
+**Today's Progress** : Worked on the project - *Spammers and fake user detection on twitter*. Fetch twwwts from twitter using tweepy library and API Credentials. Segregated the data in two tables - tweet_data and user_data.
