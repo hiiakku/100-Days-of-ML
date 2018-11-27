@@ -355,3 +355,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 65: Nov 26 , 2018
 
 **Today's Progress** : Worked on the project - *Spammers and fake user detection on twitter*. Fetch twwwts from twitter using tweepy library and API Credentials. Segregated the data in two tables - tweet_data and user_data.
+
+## Day 66: Nov 27 , 2018
+
+**Today's Progress** : Continued with *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
+
