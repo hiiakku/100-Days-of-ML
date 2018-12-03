@@ -381,3 +381,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Wanted to learn about Anomaly Detection, so read an article on it.
 
 **Link of Article:**   [Introduction to Anomaly Detection](https://www.datascience.com/blog/python-anomaly-detection)
+
+## Day 72: Dec 3 , 2018
+
+**Today's Progress** : Continued with *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
+
