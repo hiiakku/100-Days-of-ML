@@ -390,3 +390,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 
 **Today's Progress** : Continued with *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
 
+## Day 74: Dec 5 , 2018
+
+**Today's Progress** : Watched some videos of *Natural Language Processing | Dan Jurafsky, Christopher Manning* playlist today.
+
+**Link of Article:**   [Natural Language Processing](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
