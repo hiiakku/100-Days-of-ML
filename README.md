@@ -395,3 +395,10 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Watched some videos of *Natural Language Processing | Dan Jurafsky, Christopher Manning* playlist today.
 
 **Link of Article:**   [Natural Language Processing](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
+
+## Day 75: Dec 6 , 2018
+
+**Today's Progress** : Learnt about question answering methods of NLP.
+
+**Link of Article:**   [ Factoid Q/A ](https://www.youtube.com/watch?v=U8AvpqVdgBw&index=93&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
+
