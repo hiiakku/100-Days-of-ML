@@ -402,3 +402,6 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 
 **Link of Article:**   [ Factoid Q/A ](https://www.youtube.com/watch?v=U8AvpqVdgBw&index=93&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
 
+## Day 76: Dec 7 , 2018
+
+**Today's Progress** : Continued with my twitter based project. Worked on module containing emoticon sentiment analysis and emozi map  matching.
