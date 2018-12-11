@@ -417,3 +417,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 79: Dec 10 , 2018
 
 **Today's Progress** : Continued with my twitter based project. Worked on module containing text=emoticon sentiment analysis and polarity calculations.
+
+## Day 80: Dec 11 , 2018
+
+**Today's Progress** : Continued with *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
+
