@@ -433,3 +433,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 83: Dec 14 , 2018
 
 **Today's Progress** : Worked on my twitter based project report and integration - Spammer detection on twitter.
+
+## Day 84: Dec 15 , 2018
+
+**Today's Progress** : Continued with *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
+
