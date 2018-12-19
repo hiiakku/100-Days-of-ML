@@ -453,3 +453,7 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Continued with the mini coarse on xgboost in python.
 
 **Link of Resource:**   [Xgboost with python](https://github.com/hiiakku/100_Days_of_ML_Code/blob/master/Xgboost_with_python.pdf)
+
+## Day 88: Dec 19 , 2018
+
+**Today's Progress** : Continued with *PyTorch Scholarship Challenge Nanodegree Program* on udacity.
