@@ -461,3 +461,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 ## Day 89: Dec 20 , 2018
 
 **Today's Progress** : Continued with the 7 day mini coarse on xgboost in python.
+
+## Day 90: Dec 21 , 2018
+
+**Today's Progress** : Continued with the 7 day mini coarse on xgboost in python.
+
