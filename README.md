@@ -466,3 +466,8 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 
 **Today's Progress** : Continued with the 7 day mini coarse on xgboost in python.
 
+## Day 91: Dec 22 , 2018
+
+**Today's Progress** : Read about a practical implementation of CNN.
+
+**Link of Resource:**   [Rock paper scissor](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
