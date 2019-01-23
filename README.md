@@ -471,3 +471,7 @@ Recurrent Networks* of the book *Speech and Language Processing by Daniel Jurafs
 **Today's Progress** : Read about a practical implementation of CNN.
 
 **Link of Resource:**   [Rock paper scissor](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
+
+## Day 92: Jan 23 , 2019
+
+**Today's Progress** : Learnt about R programming language and covered its basics.
